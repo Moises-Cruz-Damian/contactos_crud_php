@@ -3,7 +3,7 @@
 $host     = "sql204.ezyro.com";
 $db_name  = "ezyro_40415301_agenda_contactos";
 $username = "ezyro_40415301";
-$password = "Darinel09";   
+$password = "****";   
 $charset  = "utf8mb4";
 
 $dsn = "mysql:host=$host;dbname=$db_name;charset=$charset";
